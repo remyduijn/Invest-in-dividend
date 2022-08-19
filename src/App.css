@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.bottom-0 {
+  padding-top: 16rem;
+}
+
+.top-padding {
+  padding-top: 9rem;
+}
+
+.under-title {
+  padding-top: 0.5rem;
+}
+@media (max-width: 991px){.under-title {
+  padding-top: 1.2rem;
+}} 
